@@ -1,2 +1,2 @@
 # VB6_MiniMax
-MiniMax algorithm implementation in VB6
+MiniMax algorithm implementation in VB6.
